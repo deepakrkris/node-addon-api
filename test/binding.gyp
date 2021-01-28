@@ -57,6 +57,7 @@
         'reference.cc',
         'version_management.cc',
         'thunking_manual.cc',
+        'global.cc',
       ],
       'conditions': [
         ['disable_deprecated!="true"', {
